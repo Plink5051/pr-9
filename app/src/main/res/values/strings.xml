@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pract9</string>
+    <string name="Text" > Лабораторная работа № 9 </string>
+    <string name="Kold" > """
+        Листопад И.А.Бунин
+        Лес, точно терем расписной,
+        Лиловый, золотой, багряный,
+        Веселой, пестрою стеной
+        Стоит над светлою поляной
+        """</string>
+
+
+
+
+</resources>
